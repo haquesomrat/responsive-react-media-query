@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Replace Tire",
+        "price": 3000,
+        "id": 1,
+        "img": "https://i.ibb.co/q1NZVFJ/1.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa velit non perspiciatis praesentium qui eligendi rem repellat suscipit eius eum."
+    },
+    {
+        "name": "Oil Change",
+        "price": 450,
+        "id": 2,
+        "img": "https://i.ibb.co/MpDKLKr/2.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa velit non perspiciatis praesentium qui eligendi rem repellat suscipit eius eum."
+    },
+    {
+        "name": "Break Repairing",
+        "price": 7500,
+        "id": 3,
+        "img": "https://i.ibb.co/rZdm5C2/3.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa velit non perspiciatis praesentium qui eligendi rem repellat suscipit eius eum."
+    },
+    {
+        "name": "Glass Change",
+        "price": 900,
+        "id": 4,
+        "img": "https://i.ibb.co/c69SSCz/4.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa velit non perspiciatis praesentium qui eligendi rem repellat suscipit eius eum."
+    },
+    {
+        "name": "Engine Diagnostic",
+        "price": 5500,
+        "id": 5,
+        "img": "https://i.ibb.co/r4MQvv4/5.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa velit non perspiciatis praesentium qui eligendi rem repellat suscipit eius eum."
+    },
+    {
+        "name": "Wheel Alignment",
+        "price": 3400,
+        "id": 6,
+        "img": "https://i.ibb.co/B2hGNZC/6.jpg",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa velit non perspiciatis praesentium qui eligendi rem repellat suscipit eius eum."
+    }
+]
